@@ -19,7 +19,7 @@ public class PruebaServer {
         
           int puerto=5001;
           
-          if(args!=null) puerto=Integer.parseInt(args[0]);
+          //if(args!=null) puerto=Integer.parseInt(args[0]);
 
         
         System.out.println("Iniciando servidor.....");
